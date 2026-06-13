@@ -12,3 +12,6 @@ target/
 .DS_Store
 Thumbs.db
 *.log
+
+# dbt seeds (data)
+airbnb_analytics/seeds/*.csv
