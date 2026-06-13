@@ -2,3 +2,17 @@
 target/
 dbt_packages/
 logs/
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+target/
+*.duckdb
+*.duckdb.wal
+.dbt/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
