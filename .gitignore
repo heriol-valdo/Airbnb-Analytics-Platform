@@ -8,6 +8,7 @@ target/
 *.duckdb.wal
 .dbt/
 .vscode/
+.streamlit/
 .idea/
 .DS_Store
 Thumbs.db
