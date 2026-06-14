@@ -17,7 +17,7 @@
 | **Frédo AGBEKODO** | • Requêtes SQL avancées<br>• Transformation des données (Silver)<br>• Logique métier<br>• Agrégations analytiques (Gold)<br>• Optimisation requêtes |
 | **Heriol Zeufack** | • Application Streamlit (5 pages)<br>• Interface utilisateur<br>• Filtres dynamiques<br>• Navigation et layout<br>• Mise en cache Streamlit |
 | **Frédo AGBEKODO, Heriol Zeufack** | • Graphiques Plotly (4+)<br>• Dashboards interactifs<br>• Design UX/UI<br>• Chartjs et couleurs<br>• KPI et métriques |
-| **Heriol Zeufack** | • Tests dbt (déclaratifs + custom)<br>• Validation des données<br>• UAT (User Acceptance Testing)<br>• Documentation tests<br>• Assurance qualité |
+| **Heriol Zeufack** | • Tests dbt (déclaratifs + custom)<br>• Validation des données<br>• UAT (User Acceptance Testing)<br>• Assurance qualité |
 
 ---
 
