@@ -2,7 +2,7 @@
 
 # <i class="fas fa-building"></i> Plateforme d'Analyse Airbnb - Rapport Complet
 
-**Auteur(s)** : Frédo AGBEKODO, Heriol Zeufack
+**Auteurs** : Frédo AGBEKODO, Heriol Zeufack
 **Date** : 2026-06-14  
 
 ---
