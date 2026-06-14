@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: fct_silver_listings
+    description: Listings nettoyés et validés
+    config:
+      tags: ['silver']
+
+  - name: fct_silver_reviews
+    description: Avis nettoyés avec sentiments et métadonnées
+    config:
+      tags: ['silver']
+
+  - name: fct_silver_hosts
+    description: Hôtes nettoyés avec métriques agrégées
+    config:
+      tags: ['silver']
+
+  - name: fct_silver_full_moon_dates
+    description: Dates des pleines lunes enrichies
+    config:
+      tags: ['silver']

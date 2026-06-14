@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: fct_gold_fact_reviews
+    description: Faits agrégés pour analyse d'avis
+    config:
+      tags: ['gold']
+
+  - name: fct_gold_fact_full_moon_reviews
+    description: Impact de la pleine lune sur les avis
+    config:
+      tags: ['gold']
+
+  - name: fct_gold_dim_listings
+    description: Dimension listings pour analyse
+    config:
+      tags: ['gold']
+
+  - name: fct_gold_dim_hosts
+    description: Dimension hôtes pour analyse
+    config:
+      tags: ['gold']

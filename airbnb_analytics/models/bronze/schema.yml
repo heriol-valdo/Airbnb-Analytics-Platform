@@ -1,0 +1,22 @@
+version: 2
+
+seeds:
+  - name: listings
+    description: Données brutes des listings Airbnb
+    config:
+      tags: ['bronze']
+
+  - name: reviews
+    description: Données brutes des avis Airbnb
+    config:
+      tags: ['bronze']
+
+  - name: hosts
+    description: Données brutes des hôtes Airbnb
+    config:
+      tags: ['bronze']
+
+  - name: full_moon_dates
+    description: Dates des pleines lunes
+    config:
+      tags: ['bronze']
